@@ -1,0 +1,11 @@
+{
+	"dbCarrito":{
+        "host":     "10.28.114.104",
+        "port":     "5432",
+        "username": "sysinnovacion",
+        "password": "d302f18b0c252a08c903fb86e2bd4aac",
+        "dbname":   "carrito"
+    },
+	"auth" : "http://sso.coppel.com:50060/api/v1/verify",
+	"authDev" : "http://10.44.15.214/api/v1/verify"
+}
